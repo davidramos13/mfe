@@ -1,1 +1,1 @@
-# mfe
+# Microfrontends Course from Udemy
